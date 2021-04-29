@@ -1,3 +1,4 @@
+
 # HelloToast
 
 I have made a simple app to show a toast and count on clicking button.
@@ -9,5 +10,7 @@ I have made a simple app to show a toast and count on clicking button.
 
 # Preview
 
-![Ht](https://user-images.githubusercontent.com/68476336/116556534-2da60c00-a91b-11eb-9300-781d6b21a1cd.PNG)
-![Httt](https://user-images.githubusercontent.com/68476336/116556568-3696dd80-a91b-11eb-9017-822e5d485ee9.PNG)
+![Httt](https://user-images.githubusercontent.com/68476336/116574655-9301f900-a92b-11eb-897a-d25996e6093a.PNG)
+![Ht](https://user-images.githubusercontent.com/68476336/116574725-a2814200-a92b-11eb-81f4-f75dfa7daee0.PNG)
+
+
