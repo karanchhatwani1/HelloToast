@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    //Button for showing toast
     <Button
         android:id="@+id/button_toast"
         android:layout_width="0dp"
@@ -20,6 +21,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    //Button for increasing count
     <Button
         android:id="@+id/button_count"
         android:layout_width="0dp"
@@ -34,6 +36,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    //TextView to show text
     <TextView
         android:id="@+id/show_count"
         android:layout_width="0dp"

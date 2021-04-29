@@ -19,12 +19,16 @@ public class MainActivity extends AppCompatActivity {
         mShowCount = (TextView) findViewById(R.id.show_count);
     }
 
+    //method for showing the toast
     public void showToast(View view) {
         Toast.makeText(this, R.string.toast_message, Toast.LENGTH_SHORT).show();
     }
 
+    //method for increasing the count
     public void countUp(View view) {
         mCount++;
+
+        //setting the text to count
         mShowCount.setText(Integer.toString(mCount));
     }
 }
